@@ -1,2 +1,2 @@
 # dependency-confusion
-Exploit For Npm Dependency confusion attac
+Exploit For Npm Dependency confusion attack
